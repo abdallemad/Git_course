@@ -1,0 +1,2 @@
+"git clone, add, reset head, commit -m "", push " 
+"git remote -v 'origin' , git push remote + branch" 
